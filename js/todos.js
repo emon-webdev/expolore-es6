@@ -15,6 +15,5 @@ function displayTodos(todos) {
         `;
         todoContainer.appendChild(todoDiv)
     }
-
 }
 loadTodos()
